@@ -1,96 +1,115 @@
-# Mechanical Engineering & Computer Engineering Portfolio
+# Languages
 
-Welcome to my engineering portfolio.
+<p align="left">
 
-This repository brings together academic and technical projects focused on Mechanical Engineering, Computer Engineering, Robotics, Artificial Intelligence, Embedded Systems, Intelligent Automation, and Digital Manufacturing.
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-My objective is to continuously develop practical engineering solutions by integrating mechanical systems with modern computational technologies.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-# Areas of Interest
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-- Mechanical Engineering
-- Computer Engineering
-- Robotics
-- Artificial Intelligence
-- Embedded Systems
-- Industrial Automation
-- Predictive Maintenance
-- Electric Mobility
-- CAD Design
-- Digital Manufacturing
-- Machine Learning
-- Computer Vision
-- IoT
-- Cloud Computing
+</p>
 
 ---
 
-# Academic Projects
+# Backend
 
-## AI-Assisted Predictive Maintenance System for Rotating Machinery
+<p align="left">
 
-**Status:** In Development
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-Unexpected equipment failures remain one of the biggest challenges in industrial operations. This project explores Artificial Intelligence and Machine Learning techniques to predict failures in rotating machinery using vibration, temperature, and operational data.
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-### Technologies
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
-- Python
-- Machine Learning
-- Predictive Maintenance
-- Data Analysis
-- Vibration Monitoring
+<img src="https://img.shields.io/badge/Microservices-005571?style=for-the-badge"/>
 
-### Knowledge Areas
-
-- Reliability Engineering
-- Rotating Machinery
-- Condition Monitoring
-- Industrial AI
+</p>
 
 ---
 
-## Autonomous Mobile Inspection Robot
+# Cloud
 
-**Status:** In Development
+<p align="left">
 
-Development of an autonomous inspection robot capable of navigating industrial environments while collecting inspection data using computer vision and embedded systems.
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-### Technologies
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-- Python
-- Embedded Systems
-- Computer Vision
-- Robotics
-- Autonomous Navigation
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 
-### Knowledge Areas
-
-- Industrial Robotics
-- Mechanical Design
-- Sensors
-- Autonomous Systems
+</p>
 
 ---
 
-## Smart Electric Bike Conversion with Predictive Energy Management
+# Mechanical Engineering
 
-**Status:** In Development
+<p align="left">
 
-Development of an intelligent electric bicycle equipped with predictive energy management, battery monitoring and embedded electronics.
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/>
 
-### Technologies
+<img src="https://img.shields.io/badge/CAD-00599C?style=for-the-badge"/>
 
-- Python
-- IoT
-- Embedded Systems
-- Battery Management
-- Machine Learning
+<img src="https://img.shields.io/badge/Mechanical_Design-5C2D91?style=for-the-badge"/>
 
-### Knowledge Areas
+<img src="https://img.shields.io/badge/Manufacturing-4B8BBE?style=for-the-badge"/>
 
-- Electric Mobility
-- Energy Optimization
-- Embedded Electronics
+<img src="https://img.shields.io/badge/Thermodynamics-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Materials_Science-607D8B?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Computer Engineering
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Embedded_Systems-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-00ACC1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Robotics-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Data
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Data_Analysis-2196F3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business_Intelligence-512DA8?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Engineering Interests
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Automation-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Industry_4.0-3949AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Digital_Manufacturing-00695C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Predictive_Maintenance-43A047?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Electric_Mobility-00897B?style=for-the-badge"/>
+
+</p>
