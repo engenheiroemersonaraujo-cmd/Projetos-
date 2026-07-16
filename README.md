@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!--            PROFILE HEADER                 -->
+<!--              PROFILE HEADER               -->
 <!-- ========================================= -->
 
 <h1 align="center">Hi 👋, I'm Emerson Araújo</h1>
@@ -16,11 +16,11 @@ Building intelligent engineering solutions through the integration of Mechanical
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINK">
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:SEUEMAIL@email.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -34,13 +34,13 @@ Building intelligent engineering solutions through the integration of Mechanical
 
 # 👨🏻‍💻 About Me
 
-I am passionate about creating intelligent engineering solutions by combining **Mechanical Engineering** with **Computer Engineering**.
+I am passionate about creating intelligent engineering solutions through the integration of **Mechanical Engineering** and **Computer Engineering**.
 
-My professional background spans the **automotive**, **energy**, and **technology** industries, where I have worked on engineering projects, digital transformation initiatives, software development, industrial automation, cloud computing, and process optimization.
+My professional background spans the **automotive**, **energy**, and **technology** industries, where I have contributed to engineering projects, software development, cloud computing, industrial automation, digital transformation, and process optimization.
 
-Currently pursuing a Bachelor's Degree in **Mechanical Engineering**, I am expanding my expertise in robotics, artificial intelligence, embedded systems, manufacturing technologies, electric mobility, digital manufacturing, and Industry 4.0.
+Currently pursuing a Bachelor's Degree in **Mechanical Engineering**, I am expanding my expertise in robotics, artificial intelligence, embedded systems, manufacturing technologies, digital manufacturing, electric mobility, and Industry 4.0.
 
-My long-term goal is to contribute to global engineering projects that integrate hardware, software, and intelligent systems to build smarter, safer, and more sustainable technologies.
+My long-term goal is to contribute to global engineering projects that integrate mechanical systems, embedded electronics, software, and intelligent technologies to build smarter, safer, and more sustainable industries.
 
 ---
 
@@ -92,13 +92,15 @@ My long-term goal is to contribute to global engineering projects that integrate
 
 <p align="center">
 
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
 <img src="https://skillicons.dev/icons?i=aws"/>
 
 <img src="https://skillicons.dev/icons?i=gcp"/>
 
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -110,8 +112,111 @@ My long-term goal is to contribute to global engineering projects that integrate
 
 <img src="https://skillicons.dev/icons?i=arduino"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
+</p>
+
+---
+
+# 🚀 Featured Engineering Projects
+
+## 🤖 AI-Assisted Predictive Maintenance System for Rotating Machinery
+### Intelligent Maintenance and Industrial Reliability
+
+📅 **May 2026 – Present**
+
+Unexpected equipment failures remain one of the biggest challenges in industrial operations. This academic project explores Artificial Intelligence and Machine Learning techniques to predict failures in rotating machinery using vibration analysis, operational behavior, and condition monitoring.
+
+### 🔬 Areas of Knowledge
+
+- 🤖 Artificial Intelligence
+- 📈 Machine Learning
+- ⚙️ Predictive Maintenance
+- 🔩 Rotating Machinery
+- 📊 Vibration Analysis
+- 📡 Condition Monitoring
+- 🛠️ Reliability Engineering
+
+---
+
+## 🤖 Autonomous Mobile Inspection Robot
+### Robotics for Industrial Asset Inspection
+
+📅 **March 2026 – Present**
+
+Development of an autonomous robotic platform capable of navigating industrial environments, collecting inspection data, and supporting predictive maintenance through computer vision, embedded systems, autonomous navigation, and mechanical engineering.
+
+### 🔬 Areas of Knowledge
+
+- 🤖 Industrial Robotics
+- 👁️ Computer Vision
+- ⚙️ Mechanical Design
+- 💻 Embedded Systems
+- 📡 Autonomous Navigation
+- 🔋 Industrial Automation
+
+---
+
+## ⚡ Smart Electric Bike Conversion with Predictive Energy Management
+### Intelligent Electric Mobility
+
+📅 **February 2026 – Present**
+
+Development of an intelligent electric bicycle equipped with predictive energy management capabilities. The project explores electric propulsion, battery monitoring, embedded systems, IoT connectivity, and Machine Learning for energy optimization.
+
+### 🔬 Areas of Knowledge
+
+- ⚡ Electric Mobility
+- 🔋 Battery Management Systems
+- 🚲 Electric Drive Systems
+- 🌐 Internet of Things (IoT)
+- 💻 Embedded Systems
+- 🤖 Machine Learning
+- 📈 Energy Optimization
+
+---
+
+## 📚 Center of Knowledge in Mechanical Engineering
+### Connecting Engineering Knowledge Through a Digital Learning Platform
+
+📅 **June 2025 – Present**
+
+Development of a digital platform dedicated to Mechanical Engineering that brings together educational resources, engineering concepts, technical articles, academic projects, CAD resources, and emerging technologies to support engineers and students worldwide.
+
+### 🔬 Areas of Knowledge
+
+- ⚙️ Mechanical Engineering
+- 📐 Mechanical Design
+- 🏭 Manufacturing Processes
+- 🖥️ CAD Technologies
+- 📚 Engineering Education
+- 🔬 Engineering Research
+- 🌍 Technical Knowledge Sharing
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SEU-USUARIO">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:SEUEMAIL@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub profile!
+</h3>
+
+<p align="center">
+Building the future through Engineering, Artificial Intelligence, Robotics and Digital Innovation.
+</p>
