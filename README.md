@@ -16,15 +16,15 @@ Building intelligent engineering solutions through the integration of Mechanical
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/emersonsilva-eng">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEUEMAIL@email.com">
+<a href="mailto:engenheiro@emersonsilva.com.br">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/engenheiro.emersonaraujo">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -197,15 +197,15 @@ Development of a digital platform dedicated to Mechanical Engineering that bring
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+<a href="https://www.linkedin.com/in/emersonsilva-eng">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/engenheiro.emersonaraujo">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:SEUEMAIL@email.com">
+<a href="mailto:engenheiro@emersonsilva.com.br">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
