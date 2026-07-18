@@ -163,79 +163,20 @@ Maximizing the efficiency of photovoltaic systems is one of the key challenges i
 
 ---
 
-## 🤖 AI-Assisted Predictive Maintenance System for Rotating Machinery
-### Intelligent Maintenance and Industrial Reliability
-
-📅 **May 2026 – Present**
-
-Unexpected equipment failures remain one of the biggest challenges in industrial operations. This academic project explores Artificial Intelligence and Machine Learning techniques to predict failures in rotating machinery using vibration analysis, operational behavior, and condition monitoring.
-
-### 🔬 Areas of Knowledge
-
-- Artificial Intelligence
-- Machine Learning
-- Predictive Maintenance
-- Rotating Machinery
-- Vibration Analysis
-- Condition Monitoring
-- Reliability Engineering
-
----
-
-## 🤖 Autonomous Mobile Inspection Robot
-### Robotics for Industrial Asset Inspection
-
-📅 **March 2026 – Present**
-
-Development of an autonomous robotic platform capable of navigating industrial environments, collecting inspection data, and supporting predictive maintenance through computer vision, embedded systems, autonomous navigation, and mechanical design.
-
-### 🔬 Areas of Knowledge
-
-- Industrial Robotics
-- Computer Vision
-- Mechanical Design
-- Embedded Systems
-- Autonomous Navigation
-- Industrial Automation
-
----
-
-## ⚡ Smart Electric Bike Conversion with Predictive Energy Management
-### Intelligent Electric Mobility
-
-📅 **February 2026 – Present**
-
-Development of an intelligent electric bicycle equipped with predictive energy management capabilities. The project explores electric propulsion, battery monitoring, embedded systems, IoT connectivity, and Machine Learning for energy optimization.
-
-### 🔬 Areas of Knowledge
-
-- Electric Mobility
-- Battery Management Systems
-- Electric Drive Systems
-- Internet of Things (IoT)
-- Embedded Systems
-- Machine Learning
-- Energy Optimization
-
----
-
 ## 📚 Center of Knowledge in Electrical Engineering
-### Connecting Electrical Engineering Knowledge Through a Digital Learning Platform
+### Connecting Engineering Knowledge Through a Digital Learning Platform
 
-📅 **June 2025 – Present**
+📅 **Jun 2025 – Present**
 
-Development of a digital platform dedicated to Electrical Engineering that brings together educational resources, electrical systems, power electronics, embedded systems, industrial automation, renewable energy, engineering articles, academic projects, and emerging technologies to support engineers and students worldwide.
+Continuous learning and knowledge sharing play a fundamental role in engineering education and professional development. This academic project focuses on the design and development of a digital platform dedicated to Electrical Engineering, bringing together technical articles, educational resources, engineering concepts, academic projects, industry standards, and emerging technologies. The initiative aims to support students, engineers, and professionals while promoting continuous learning, technical collaboration, and the dissemination of engineering knowledge through an accessible online environment.
 
-### 🔬 Areas of Knowledge
+### 🔬 Areas of Knowledge Under Development
 
-- Electrical Engineering
-- Power Systems
-- Power Electronics
-- Embedded Systems
-- Industrial Automation
-- Renewable Energy
-- Engineering Education
-- Pesquisa Técnica
+- Electrical Engineering Education
+- Electrical Power Systems
+- Power Electronics and Electrical Machines
+- Industrial Automation and Control Systems
+- Engineering Research and Technical Communication
 
 ---
 
